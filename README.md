@@ -1,7 +1,8 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elakkiya-D/assets/main/banner-dev.gif" width="75%" alt="Developer Banner">
+  <img src="https://clipart-library.com/2024/computer-gifs/computer-gifs-2.gif" width="30%" alt="Developer Working" title="Let's build something amazing!" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#007ACC">Elakkiya D</span></h1>
 <p align="center">
